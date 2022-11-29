@@ -1,0 +1,25 @@
+{
+  "name": "nextgen-bot",
+  "version": "1.0.0",
+  "description": "NextGen Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavideDemaa/NextGen.git"
+  },
+  "keywords": [
+    "NextGen"
+  ],
+  "author": "DavideDemaa#0070",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavideDemaa/NextGen/issues"
+  },
+  "homepage": "https://github.com/DavideDemaa/NextGen#readme",
+  "dependencies": {
+    "discord.js": "^14.7.0"
+  }
+}
